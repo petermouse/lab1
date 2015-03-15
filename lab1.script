@@ -1,0 +1,15 @@
+Script started on 2015年03月10日 (週二) 17時43分38秒
+]0;F74032057@2015cpp: ~F74032057@2015cpp:~$ whoami; pwd
+F74032057
+/home/F74032057
+]0;F74032057@2015cpp: ~F74032057@2015cpp:~$ git config -l
+user.name=petermouse
+user.email=F74032057@mail.ncku.edu.tw
+]0;F74032057@2015cpp: ~F74032057@2015cpp:~$ git clone https[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kgit clone htpp[K[K[Kttp://github.com/petermouse/lab1.gits://github.com/petermouse/lab1.git
+Cloning into 'lab1'...
+warning: You appear to have cloned an empty repository.
+]0;F74032057@2015cpp: ~F74032057@2015cpp:~$ git clone https://github.com/petermouse/lab1.git
+fatal: destination path 'lab1' already exists and is not an empty directory.
+]0;F74032057@2015cpp: ~F74032057@2015cpp:~$ exit
+
+Script done on 2015年03月10日 (週二) 17時46分52秒
